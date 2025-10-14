@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, World!");
+    println!("Hello, Rust 2025");
 }
